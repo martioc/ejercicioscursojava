@@ -1,0 +1,8 @@
+input:out-of-range+label{
+background-color: crimson;
+borde: 2px solid red
+}
+
+input:in-range+label{
+    background-color: green;
+}
