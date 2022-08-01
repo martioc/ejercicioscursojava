@@ -1,7 +1,7 @@
 1. *
 2. p
 3. #title-1
-4. #.bg-yellow
+4. .bg-yellow
 5. [id]
 6. [id="title-1"]
 7. [href="yahoo.com"]
