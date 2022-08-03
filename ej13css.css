@@ -1,0 +1,11 @@
+P{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    outline:dotted 10px rgb(20, 234, 4);
+    
+}
+P:active{
+    outline: dotted 15px black 
+    
+}
