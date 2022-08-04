@@ -1,39 +1,36 @@
-p {
+.container {
   width: 400px;
-  height: 200px;
+  height: 400px;
   background-color: red;
-  margin:auto 
+  margin: auto;
+  margin-top: 50px;
 }
 .circle {
-  background-color: rgb(0, 202, 0);
-  width: 10px;
-  height: 10px;
-  border: 1px solid black;
-  border-radius: 100%;
-  margin: auto;
-  align-content: center;
-  text-align: center;
-  justify-content: center;
-  padding: 5%;
-  font-size: 50px;
+    background-color: rgb(0, 202, 0);
+    width: 35px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 100%;
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    position: relative;
 }
-#one {
-  position: absolute;
-  top:0px;
-  left: 0px;
-  }
-#two {
-    position:absolute;
-    top:0px;
-    right: 0px;
+.circle-1 {
+  top: -17px;
+  left: -196px;
 }
-#three {
-    position:absolute;
-    bottom:0px;
-    left: 0px;
+.circle-2{
+   top: -54px;
+  left: 199px;
 }
-#four {
-    position:absolute;
-    bottom:0px;
-    right:0px;
+.circle-3 {
+bottom: -306px;
+  left: -196px;
+}
+.circle-4 {
+  bottom: -273px;
+  left: 199px;
 }
