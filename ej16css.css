@@ -1,0 +1,13 @@
+p{
+    height: 100px;
+    width: 600px;
+    text-align: justify;
+    font-family: arial black;
+    float:left;
+    }
+img{
+    height: 300px;
+    width: 600px;
+    float:right;
+
+}
